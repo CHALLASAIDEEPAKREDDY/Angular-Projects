@@ -1,0 +1,18 @@
+.custom-col {
+    max-width: 800px; /* Set a max width for the column */
+    margin: 0 auto; /* Center the content */
+}
+
+.custom-table {
+    font-size: 14px; /* Smaller font size for the table */
+    border: 1px solid #ddd; /* Light border color */
+}
+
+.custom-table th, .custom-table td {
+    padding: 12px; /* Increase padding for better spacing */
+}
+
+.custom-table th {
+    background-color: #f8f9fa; /* Light background for header */
+    text-align: left; /* Left-align text in headers */
+}
